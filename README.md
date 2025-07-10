@@ -10,5 +10,5 @@
 Atuo com infraestrutura, redes, Active Directory e Zimbra. Atualmente em transição para DevOps, estudando Linux, Git, automações e pipelines.
 
 ## Arquivos
-- [📄 Currículo (PDF)](https://github.com/Dev-AntoniEduardo/Curriculo/blob/main/Curriculo_Antoni_Eduardo_Borges_da_Cunha.docx)
+- [📄 Currículo (PDF)](Curriculo_Antoni_Eduardo_Borges_da_Cunha (1))
 
